@@ -10,12 +10,12 @@
 ## 👋 Hello !
 
 
-Moi c’est **Smeax**, un jeune développeur passionné de 15 ans et demi.
-• Je travaille sur plusieurs projets comme **FruitCraft**, **Jurassia**, **Smeax Studio**, et bien d'autres.
-• Je touche à plusieurs domaines : développement **web**, **Java**, **JavaScript**, **scripts**, **graphisme**, **configuration**, et plus encore.
-• Je collabore avec **By-Hoster** et participe à différents projets et serveurs.
-• Actuellement étudiant, je me forme en continu dans l’univers de l’**informatique**, avec un intérêt particulier pour le **développement web**, les **applications**, les **logiciels** et la **création visuelle**.
-•  Côté gaming, je suis fan de **Minecraft**, **Palworld**, **Warface** et **Monster Hunter**.
+Moi c’est **Smeax**, un jeune développeur passionné de 15 ans et demi.                                                                                                   
+• Je travaille sur plusieurs projets comme **FruitCraft**, **Jurassia**, **Smeax Studio**, et bien d'autres.                                                             
+• Je touche à plusieurs domaines : développement **web**, **Java**, **JavaScript**, **scripts**, **graphisme**, **configuration**, et plus encore.                       
+• Je collabore avec **By-Hoster** et participe à différents projets et serveurs.                                                                                         
+• Actuellement étudiant, je me forme en continu dans l’univers de l’**informatique**, avec un intérêt particulier pour le **développement web**, les **applications**, les **logiciels** et la **création visuelle**.                                                                                                                           
+•  Côté gaming, je suis fan de **Minecraft**, **Palworld**, **Warface** et **Monster Hunter**.                                                                           
 
 
 ## 💻 Je développe en :
@@ -39,10 +39,10 @@ Moi c’est **Smeax**, un jeune développeur passionné de 15 ans et demi.
 ## 🪐 Mes réseaux :
 
 <div align="left">
-  <a href="https://smeax.fr" target="_blank">
+  <a href="https://smeax.fr" target="">
     <img src="https://media.discordapp.net/attachments/1144570826331525222/1308791088546582528/smeax-icon.png?ex=6829e52f&is=682893af&hm=5d8e437f9f8a4df56f301d501081526b27e17f30a1267c476438ab1d32e70b32&=&format=webp&quality=lossless&width=550&height=550" height="50" alt="smeax logo"  />
   </a>
-    <a href="https://discord.gg/5n9eRufakB" target="_blank">
+    <a href="https://discord.gg/5n9eRufakB" target="">
     <img src="https://img.icons8.com/?size=96&id=30998&format=png" height="50" alt="discord logo"  />
   </a>
 </div>
