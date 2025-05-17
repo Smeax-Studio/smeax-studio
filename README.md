@@ -39,10 +39,10 @@ Moi c’est **Smeax**, un jeune développeur passionné de 15 ans et demi.
 ## 🪐 Mes réseaux :
 
 <div align="left">
-  <a href="https://smeax.fr/" target="_blank">
-    <img src="https://smeax.fr" height="50" alt="buymeacoffe logo"  />
+  <a href="https://smeax.fr" target="_blank">
+    <img src="https://smeax.fr/favicon.svg" height="50" alt="smeax logo"  />
   </a>
-    <a href="https://discord.com" target="_blank">
-    <img src="📣discord.gg/5n9eRufakB" height="50" alt="kofi logo"  />
+    <a href="https://discord.gg/5n9eRufakB" target="_blank">
+    <img src="https://img.icons8.com/?size=96&id=30998&format=png" height="50" alt="discord logo"  />
   </a>
 </div>
