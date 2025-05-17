@@ -40,7 +40,7 @@ Moi c’est **Smeax**, un jeune développeur passionné de 15 ans et demi.
 
 <div align="left">
   <a href="https://smeax.fr" target="_blank">
-    <img src="https://smeax.fr/favicon.svg" height="50" alt="smeax logo"  />
+    <img src="https://media.discordapp.net/attachments/1144570826331525222/1308791088546582528/smeax-icon.png?ex=6829e52f&is=682893af&hm=5d8e437f9f8a4df56f301d501081526b27e17f30a1267c476438ab1d32e70b32&=&format=webp&quality=lossless&width=550&height=550" height="50" alt="smeax logo"  />
   </a>
     <a href="https://discord.gg/5n9eRufakB" target="_blank">
     <img src="https://img.icons8.com/?size=96&id=30998&format=png" height="50" alt="discord logo"  />
